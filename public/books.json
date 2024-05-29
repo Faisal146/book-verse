@@ -1,0 +1,123 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Lord of the Rings",
+    "author": "J. R. R. Tolkien",
+    "image": "https://i.ibb.co/RvNz2mD/lord.png",
+    "review": "The Lord of the Rings is an epic fantasy that follows Frodo Baggins, a hobbit entrusted with the task of destroying the One Ring, an artifact of immense power forged by the Dark Lord Sauron. Frodo's journey takes him across the treacherous lands of Middle-earth, where he forms a fellowship with hobbits, dwarves, men, elves, and a wizard. Together, they face perilous challenges, forge unlikely friendships, and confront the forces of darkness that threaten to engulf the world. Tolkien's masterful storytelling, rich world-building, and timeless themes of good versus evil have captivated readers for generations.",
+    "totalPages": 1178,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": ["epic", "adventure", "middle-earth"],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1954
+  },
+  {
+    "bookId": 2,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co/NNGKJj9/pride.png",
+    "review": "Pride and Prejudice is a witty social commentary that follows the lives of the Bennet sisters in 19th-century England. Elizabeth Bennet, the intelligent and independent second eldest daughter, clashes with the arrogant and wealthy Mr. Darcy. Through a series of misunderstandings and social gatherings, their initial dislike transforms into a deeper understanding and appreciation for each other. Austen's sharp observations of human nature, her use of wit and irony, and her exploration of themes like love, marriage, and societal expectations make Pride and Prejudice a timeless classic.",
+    "totalPages": 225,
+    "rating": 4.2,
+    "category": "Romance",
+    "tags": ["classic", "witty", "social commentary"],
+    "publisher": "Penguin Classics",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 3,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/Nxhnqh4/moking.png",
+    "review": "To Kill a Mockingbird is a powerful story set in the American South during the 1930s. Through the innocent eyes of Scout Finch, we witness the trial of Tom Robinson, a black man falsely accused of assaulting a white woman. Scout's father, Atticus Finch, a lawyer who defends Robinson, teaches his children valuable lessons about justice, prejudice, and compassion. The novel explores themes of racism, social injustice, and the importance of empathy in a world riddled with inequality.",
+    "totalPages": 324,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": ["classic", "coming-of-age", "prejudice"],
+    "publisher": "J.B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 4,
+    "author": "Frank Herbert",
+    "image": "https://i.ibb.co/71G1ySd/dune.png",
+    "review": "Dune is a complex and thought-provoking science fiction epic set on the desert planet Arrakis, the only source of the valuable spice melange. Paul Atreides, son of Duke Leto Atreides, arrives on Arrakis with his family to govern the spice production. However, their arrival coincides with a deadly betrayal, forcing Paul and his mother Lady Jessica to flee into the desert. There, they encounter the Fremen, a native population who hold the key to the planet's future. Dune explores themes of ecology, politics, religion, and humanity's relationship with technology.",
+    
+    "bookName": "Dune",
+    "totalPages": 863,
+    "rating": 4.5,
+    "category": "Sci-Fi",
+    "tags": ["epic", "science fiction", "desert planet"],
+    "publisher": "Chilton Books",
+    "yearOfPublishing": 1965
+  },
+  
+
+{
+  "bookId": 5,
+  "bookName": "The Hitchhiker's Guide to the Galaxy",
+  "author": "Douglas Adams",
+  "image": "https://i.ibb.co/SXfk2th/galaxy.png",
+  "review": "The Hitchhiker's Guide to the Galaxy is a hilarious and philosophical science fiction comedy that follows Arthur Dent, a bewildered Englishman, just moments before Earth is demolished to make way for a hyperspace bypass. Arthur escapes with his friend Ford Prefect, who reveals himself to be an interstellar researcher for the titular Hitchhiker's Guide. Together, they travel through space and time, encountering a myriad of bizarre characters and situations. Adams' witty writing, absurdist humor, and exploration of existential questions make The Hitchhiker's Guide to the Galaxy a cult classic.",
+  "totalPages": 192,
+  "rating": 4.3,
+  "category": "Sci-Fi",
+  "tags": ["comedy", "science fiction", "hitchhiker"],
+  "publisher": "Pan Books",
+  "yearOfPublishing": 1979
+},
+{
+  "bookId": 6,
+  "bookName": "One Hundred Years of Solitude",
+  "author": "Gabriel García Márquez",
+  "image": "https://i.ibb.co/RBL0Rc4/solitude.png",
+  "review": "One Hundred Years of Solitude is a magical realist masterpiece that chronicles the rise and fall of the Buendía family over seven generations in the fictional town of Macondo. Márquez's writing blends elements of realism, fantasy, and myth to create a world that is both familiar and fantastical. The novel explores themes of love, loss, solitude, and the cyclical nature of history. One Hundred Years of Solitude is a captivating and haunting story that will stay with you long after you finish reading it.",
+  "totalPages": 487,
+  "rating": 4.6,
+  "category": "Magical Realism",
+  "tags": ["magical realism", "family saga", "history"],
+  "publisher": "Editorial Sudamericana",
+  "yearOfPublishing": 1967
+},
+{
+  "bookId": 7,
+  "bookName": "Frankenstein",
+  "author": "Mary Shelley",
+  "image": "https://i.ibb.co/Tw0mSNN/frank.png",
+  "review": "Frankenstein is a gothic novel that tells the story of Victor Frankenstein, a young scientist who creates a monstrous creature from body parts. The creature, abandoned by its creator, seeks revenge on Frankenstein and those he loves. Shelley's novel explores themes of ambition, the nature of good and evil, and the responsibility of creators to their creations. Frankenstein is a chilling and thought-provoking story that continues to resonate with readers today.",
+  "totalPages": 211,
+  "rating": 4.4,
+  "category": "Gothic Fiction",
+  "tags": ["gothic", "science fiction", "monster"],
+  "publisher": "Lackington, Hughes, Harding and Mavor",
+  "yearOfPublishing": 1818
+},
+{
+  "bookId": 8,
+  "bookName": "Jane Eyre",
+  "author": "Charlotte Brontë",
+  "image": "https://i.ibb.co/py9VLR4/jane.png",
+  "review": "Jane Eyre is a coming-of-age novel that tells the story of Jane, an orphan who endures a harsh childhood in an oppressive boarding school. As a young woman, she takes a position as a governess for a wealthy gentleman named Mr. Rochester. Jane and Mr. Rochester develop a deep connection, but their relationship is challenged by social class and a dark secret from Mr. Rochester's past. Brontë's novel explores themes of love, independence, and social injustice. Jane Eyre is a powerful and timeless story that continues to inspire readers.",
+  "totalPages": 496,
+  "rating": 4.2,
+  "category": "Classic Fiction",
+  "tags": ["coming-of-age", "romance", "gothic"],
+  "publisher": "Smith, Elder & Co.",
+  "yearOfPublishing": 1847
+},
+{
+  "bookId": 9,
+  "bookName": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "image": "https://i.ibb.co/rfsLjJf/catsby.png",
+  "review": "The Great Gatsby is a social commentary set in the",
+  "totalPages": 496,
+  "rating": 4.2,
+  "category": "Classic Fiction",
+  "tags": ["coming-of-age", "romance", "gothic"],
+  "publisher": "Smith, Elder & Co.",
+  "yearOfPublishing": 1847
+}
+
+]

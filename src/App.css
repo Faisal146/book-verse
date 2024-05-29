@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  
+  text-align: center;
+}
+ 
+.card {
+  
+  border: 2px solid #5d5d5d;
+  border-radius: 10px;
+}
+
+.read-the-docs {
+  color: #888;
+}
+a.active{
+   border: 2px solid rgb(6, 170, 6);
+   
+  
+} 
+ 
+
+.tabss{
+  position: relative;
+ }
+.tablink.active{
+  border-color: rgb(156 163 175);
+  border-bottom: 2px solid #1d232a;
+  
+}
+ 
+.tablink {
+  /* width: 211px; */
+  font-size: 22px;
+  padding: 10px 25px;
+  display: inline-block;
+  border-radius: 20px 20px 0px 0px;
+  margin-right: 16px;
+  margin-bottom: 5px;
+  position: absolute;
+  bottom: -7px;
+  
+  z-index: 222;
+  border-bottom: 2px solid;
+}
+.tablink.wish {
+  left: 170px;
+}
